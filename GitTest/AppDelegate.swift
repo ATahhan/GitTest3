@@ -18,6 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         print("Printing")
+        print("New_feature")
         
         return true
     }
